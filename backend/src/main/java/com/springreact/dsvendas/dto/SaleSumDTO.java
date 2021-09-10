@@ -7,7 +7,7 @@ import java.io.Serializable;
 public class SaleSumDTO implements Serializable {
     private static final long serialVersionUID = 1L;
 
-    private String sallerName;
+    private String sellerName;
     private Double sum;
 
     public SaleSumDTO(){
@@ -15,16 +15,16 @@ public class SaleSumDTO implements Serializable {
     }
 
     public SaleSumDTO(Seller seller, Double sum) {
-        this.sallerName = seller.getName();
+        this.sellerName = seller.getName();
         this.sum = sum;
     }
 
-    public String getSallerName() {
-        return sallerName;
+    public String getSellerName() {
+        return sellerName;
     }
 
-    public void setSallerName(String sallerName) {
-        this.sallerName = sallerName;
+    public void setSellerName(String sellerName) {
+        this.sellerName = sellerName;
     }
 
     public Double getSum() {
