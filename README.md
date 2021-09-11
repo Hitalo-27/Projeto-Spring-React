@@ -4,7 +4,7 @@
 
 ### `yarn start`
 
-Tecnologias usadas para criar o web site:
+## Tecnologias usadas para criar o web site:
 
 Frontend: ReactJS com typescrit, Apexcharts, bootstrap e hospedagem na nuvem com o Netlify
 
