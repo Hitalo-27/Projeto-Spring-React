@@ -1,8 +1,8 @@
 Para rodar o web site basta executar o arquivo java e depois os camandos: 
 
-npm install
+### `npm install`
 
-yarn start
+### `yarn start`
 
 Tecnologias usadas para criar o web site:
 
