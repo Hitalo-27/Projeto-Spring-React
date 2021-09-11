@@ -1,6 +1,4 @@
-Para rodar o web site basta executar o arquivo java e depois os camandos: 
-npm install
-yarn start
+Para rodar o web site basta executar o arquivo java e depois os camandos: npm install e yarn start
 
 Tecnologias usadas para criar o web site:
 Frontend: ReactJS com typescrit, Apexcharts, bootstrap e hospedagem na nuvem com o Netlify
